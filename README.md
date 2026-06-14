@@ -34,7 +34,7 @@ Tab‑separated file (`.smi` or `.txt`) with **two columns** and **no header**: 
 # How to run the program
 1. Clone the repository ina suitable working directory in your linux
    ```
-   git clone ....
+   git clone https://github.com/BishalDebroy/Drug_likeness_calculator.git
    ```
    
 2. Go into the directory and replace the content of `SMILE.smi` with your list of molecule(s)
